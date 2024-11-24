@@ -1,13 +1,37 @@
-<h1 align="center">Hi 👋, I'm Ahemd hussein</h1>
-<h3 align="center">A passionate AI student from Egypt</h3>
+# Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm Ahmed Hussen
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ahmed-elsherif-119b60337?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ahmed-elsherif-119b60337?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/share/1kscghqwsa/?mibextid=lqqj4d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/share/1kscghqwsa/?mibextid=lqqj4d" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://youtube.com/@ahmedhussen8077?si=lwlcufnhzrdnkllk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtube.com/@ahmedhussen8077?si=lwlcufnhzrdnkllk" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/https://codeforces.com/profile/ahmed452005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/ahmed452005" height="30" width="40" /></a>
-</p>
+👨‍💻 **A Passionate AI Student from Egypt**
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
+
+### ✨ About Me:
+- 🚀 I'm an AI enthusiast diving into the world of technology.
+- 🌱 Currently learning advanced problem-solving and programming techniques.
+- 💬 Open to collaboration on AI and software development projects.
+
+---
+
+### 🌐 Connect with Me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-elsherif-119b60337?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/1KscghQWsa/?mibextid=LQQJ4d)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@ahmedhussen8077?si=LwLCuFNhZRdNkLLK)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/ahmed452005)
+
+---
+
+### 🛠️ Technologies and Tools:
+- **Languages**:  
+  ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+- **Tools**:  
+  ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+
+---
+
+### 🎥 Programming in Action:
+![Programming GIF](https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif)
+
+---
+
+### 🚀 Let's Build Something Awesome!
+If you're passionate about AI, coding, or creating cool projects, let's connect! Feel free to reach out anytime.

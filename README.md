@@ -103,7 +103,6 @@ public class AhmedHussen extends Developer {
 
 ---
 
-## 🏆 Competitive Programming
 
 <!-- <div align="center">
   

@@ -92,13 +92,10 @@ public class AhmedHussen extends Developer {
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ahmed2005hussen&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed2005hussen&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmed2005hussen&theme=tokyonight" alt="GitHub Streak" />
-</div>
+
 
 ---
 
@@ -129,15 +126,6 @@ graph LR
 - 🧩 Solving problems on **Codeforces** to keep algorithms sharp
 - 🎓 Learning **system design** patterns for scalable applications
 - 🚀 Exploring **containerization** with Docker
-
----
-
-## 💼 What I'm Looking For
-
-- 🤝 Open to **collaboration** on interesting backend projects
-- 💡 Always eager to learn from experienced developers
-- 🎯 Seeking opportunities to work on **production-level applications**
-- 📈 Building my portfolio with **meaningful projects**
 
 ---
 

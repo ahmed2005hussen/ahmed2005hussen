@@ -8,7 +8,7 @@
 [![Codeforces](https://img.shields.io/badge/Codeforces-Profile-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/ahmed452005)
 [![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@ahmedhussen8077?si=LwLCuFNhZRdNkLLK)
 
-![Profile Views](https://komarev.com/ghpvc/?username=ahmed2005hussen&color=blueviolet&style=for-the-badge)
+
 
 </div>
 
@@ -38,7 +38,6 @@ public class AhmedHussen extends Developer {
 - 🎓 **Computer Science enthusiast** with a passion for backend architecture
 - 🔭 Currently training in **Java Spring Boot** and building production-ready applications
 - 🧠 Strong believer in **clean code**, **SOLID principles**, and **design patterns**
-- 💪 Competitive programmer on **Codeforces** - always sharpening my problem-solving skills
 - 🌱 Exploring **microservices**, **cloud technologies**, and **distributed systems**
 - 💬 Ask me about **backend development**, **algorithms**, or **system design**
 

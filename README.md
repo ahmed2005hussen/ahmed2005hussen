@@ -124,27 +124,6 @@ public class AhmedHussen extends Developer {
 ---
 
 
-## 📈 Contribution Graph
-
-<div align="center">
-  
-[![Ahmed's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ahmed2005hussen&theme=tokyo-night&hide_border=true)](https://github.com/ahmed2005hussen)
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=ahmed2005hussen&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7)](https://github.com/ahmed2005hussen)
-
-</div>
-
-
----
-
 ### 🔥 Currently Working On:
 - 🔨 Building real-world projects with **Spring Boot**
 - 📚 Deep diving into **Spring Security** and **Spring Data JPA**

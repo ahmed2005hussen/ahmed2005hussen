@@ -1,14 +1,26 @@
 <div align="center">
-  
+
 # 👨‍💻 Ahmed Hussen
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=440&lines=Backend+Developer;Spring+Boot+Enthusiast;Problem+Solver;Clean+Code+Advocate;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
 
 ### Backend Developer | Java Spring Boot Trainee | AI Enthusiast
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-elsherif-119b60337)
-[![Codeforces](https://img.shields.io/badge/Codeforces-Profile-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/ahmed452005)
-[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@ahmedhussen8077?si=LwLCuFNhZRdNkLLK)
+<p>
+  <a href="https://www.linkedin.com/in/ahmed-elsherif-119b60337">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://codeforces.com/profile/ahmed452005">
+    <img src="https://img.shields.io/badge/Codeforces-Profile-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
+  </a>
+  <a href="https://youtube.com/@ahmedhussen8077?si=LwLCuFNhZRdNkLLK">
+    <img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+</p>
 
-
+<p>
+  <img src="https://img.shields.io/github/followers/ahmed2005hussen?label=Followers&style=for-the-badge&color=brightgreen" alt="followers" />
+</p>
 
 </div>
 
@@ -22,6 +34,7 @@ public class AhmedHussen extends Developer {
     private String currentFocus = "Building scalable backend systems with Spring Boot";
     private String[] passions = {"Clean Code", "System Design", "Problem Solving"};
     private String learningGoal = "Mastering enterprise-level Java applications";
+    private String location = "Cairo, Egypt 🇪🇬";
     
     @Override
     public void code() {
@@ -29,38 +42,67 @@ public class AhmedHussen extends Developer {
             eat();
             sleep();
             code();
+            solve();
             repeat();
         }
+    }
+    
+    @Override
+    public String toString() {
+        return "Passionate about building robust backend systems 🚀";
     }
 }
 ```
 
-- 🎓 **Computer Science enthusiast** with a passion for backend architecture
+🎯 **Backend Developer** passionate about building scalable and maintainable systems
+
 - 🔭 Currently training in **Java Spring Boot** and building production-ready applications
-- 🧠 Strong believer in **clean code**, **SOLID principles**, and **design patterns**
-- 🌱 Exploring **microservices**, **cloud technologies**, and **distributed systems**
-- 💬 Ask me about **backend development**, **algorithms**, or **system design**
+- 🌱 Exploring **Microservices Architecture**, **Cloud Technologies**, and **System Design**
+- 💡 Strong believer in **Clean Code**, **SOLID Principles**, and **Design Patterns**
+- 🧠 Active problem solver on **Codeforces** - sharpening algorithmic thinking daily
+- 👨‍💻 All of my projects are available on [GitHub](https://github.com/ahmed2005hussen)
+- 💬 Ask me about **Backend Development**, **Spring Boot**, **System Design**, or **Algorithms**
+- ⚡ Fun fact: **Code is poetry, bugs are just unfinished verses**
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages
+### 💻 Languages
 <p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://skillicons.dev/icons?i=java" width="40" height="40" alt="Java"/>
+  <img src="https://skillicons.dev/icons?i=cpp" width="40" height="40" alt="C++"/>
+  <img src="https://skillicons.dev/icons?i=python" width="40" height="40" alt="Python"/>
+  <img src="https://skillicons.dev/icons?i=javascript" width="40" height="40" alt="JavaScript"/>
 </p>
 
-### Backend & Frameworks
+### 🚀 Backend & Frameworks
 <p>
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=spring" width="40" height="40" alt="Spring Boot"/>
+  <img src="https://skillicons.dev/icons?i=django" width="40" height="40" alt="Django"/>
+  <img src="https://skillicons.dev/icons?i=hibernate" width="40" height="40" alt="Hibernate"/>
+  <img src="https://img.shields.io/badge/REST_APIs-009688?style=flat&logo=fastapi&logoColor=white" height="40"/>
 </p>
 
-### Data & Analytics
+### 🗄️ Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" width="40" height="40" alt="MySQL"/>
+  <img src="https://skillicons.dev/icons?i=postgresql" width="40" height="40" alt="PostgreSQL"/>
+  <img src="https://skillicons.dev/icons?i=mongodb" width="40" height="40" alt="MongoDB"/>
+</p>
+
+### 🛠️ Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git" width="40" height="40" alt="Git"/>
+  <img src="https://skillicons.dev/icons?i=github" width="40" height="40" alt="GitHub"/>
+  <img src="https://skillicons.dev/icons?i=idea" width="40" height="40" alt="IntelliJ IDEA"/>
+  <img src="https://skillicons.dev/icons?i=vscode" width="40" height="40" alt="VS Code"/>
+  <img src="https://skillicons.dev/icons?i=pycharm" width="40" height="40" alt="PyCharm"/>
+  <img src="https://skillicons.dev/icons?i=postman" width="40" height="40" alt="Postman"/>
+  <img src="https://skillicons.dev/icons?i=docker" width="40" height="40" alt="Docker"/>
+</p>
+
+### 📊 Data Science & Analytics
 <p>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
@@ -68,86 +110,88 @@ public class AhmedHussen extends Developer {
   <img src="https://img.shields.io/badge/Jupyter-FA0F00?style=for-the-badge&logo=jupyter&logoColor=white" />
 </p>
 
-### Core Expertise
+### 🎯 Core Expertise
 <p>
-  <img src="https://img.shields.io/badge/OOP-FF8C00?style=for-the-badge&logo=&logoColor=white" />
-  <img src="https://img.shields.io/badge/Design_Patterns-FFA500?style=for-the-badge&logo=&logoColor=white" />
-  <img src="https://img.shields.io/badge/SOLID-FF69B4?style=for-the-badge&logo=&logoColor=white" />
-  <img src="https://img.shields.io/badge/Data_Structures-228B22?style=for-the-badge&logo=&logoColor=white" />
-  <img src="https://img.shields.io/badge/Algorithms-800080?style=for-the-badge&logo=&logoColor=white" />
-  <img src="https://img.shields.io/badge/System_Design-000000?style=for-the-badge&logo=&logoColor=white" />
-</p>
-
-### Tools & Platforms
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" />
+  <img src="https://img.shields.io/badge/OOP-FF8C00?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Design_Patterns-FFA500?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/SOLID_Principles-FF69B4?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data_Structures-228B22?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Algorithms-800080?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/System_Design-000000?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/RESTful_APIs-009688?style=for-the-badge&logoColor=white" />
 </p>
 
 ---
 
-## 📊 GitHub Statistics
+
+## 📈 Contribution Graph
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed2005hussen&layout=compact&langs_count=8&theme=tokyonight"/>
+  
+[![Ahmed's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ahmed2005hussen&theme=tokyo-night&hide_border=true)](https://github.com/ahmed2005hussen)
+
 </div>
 
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  
+[![trophy](https://github-profile-trophy.vercel.app/?username=ahmed2005hussen&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7)](https://github.com/ahmed2005hussen)
+
+</div>
 
 
 ---
 
-
-<!-- <div align="center">
-  
-[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=ahmed452005&theme=tokyonight)](https://codeforces.com/profile/ahmed452005) -->
-
-</div>
-
-
-
-## 🎯 Current Focus
-
-```mermaid
-graph LR
-    A[Learning] --> B[Spring Boot]
-    A --> C[Microservices]
-    A --> D[System Design]
-    B --> E[Building Projects]
-    C --> E
-    D --> E
-    E --> F[Career Growth]
-```
-
+### 🔥 Currently Working On:
 - 🔨 Building real-world projects with **Spring Boot**
 - 📚 Deep diving into **Spring Security** and **Spring Data JPA**
-- 🧩 Solving problems on **Codeforces** to keep algorithms sharp
-- 🎓 Learning **system design** patterns for scalable applications
-- 🚀 Exploring **containerization** with Docker
+- 🧩 Solving problems on **Codeforces** to maintain algorithmic skills
+- 🎓 Learning **System Design** patterns for scalable applications
+- 🐳 Exploring **Containerization** with Docker
+- ☁️ Getting started with **Cloud Platforms** (AWS/Azure)
 
 ---
+
 
 ## 📫 Let's Connect!
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-elsherif-119b60337)
-[![Facebook](https://img.shields.io/badge/Facebook-Follow_Me-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/1KscghQWsa/?mibextid=LQQJ4d)
-[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@ahmedhussen8077?si=LwLCuFNhZRdNkLLK)
-[![Codeforces](https://img.shields.io/badge/Codeforces-Follow-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/ahmed452005)
+<p>
+  <a href="https://www.linkedin.com/in/ahmed-elsherif-119b60337">
+    <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.facebook.com/share/1KscghQWsa/?mibextid=LQQJ4d">
+    <img src="https://img.shields.io/badge/Facebook-Follow_Me-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+  <a href="https://youtube.com/@ahmedhussen8077?si=LwLCuFNhZRdNkLLK">
+    <img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+  <a href="https://codeforces.com/profile/ahmed452005">
+    <img src="https://img.shields.io/badge/Codeforces-Follow-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
+  </a>
+</p>
 
-### 💬 *"Clean code always looks like it was written by someone who cares."* - Robert C. Martin
+### 💬 Open for Collaboration & Opportunities!
+
+**Feel free to reach out for:**
+- 🤝 Collaboration on interesting projects
+- 💼 Backend development opportunities
+- 🧠 Technical discussions and knowledge sharing
+- 📚 Learning and growing together
 
 </div>
 
 ---
 
 <div align="center">
-  
-### ⭐ If you like my work, consider giving a star to my repositories!
 
-**Happy Coding! 🚀**
+### 💭 *"Clean code always looks like it was written by someone who cares."*
+**— Robert C. Martin**
+
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 
 </div>

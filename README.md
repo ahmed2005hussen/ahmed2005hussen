@@ -10,16 +10,9 @@
   <a href="https://www.linkedin.com/in/ahmed-elsherif-119b60337">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://codeforces.com/profile/ahmed452005">
-    <img src="https://img.shields.io/badge/Codeforces-Profile-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
-  </a>
   <a href="https://youtube.com/@ahmedhussen8077?si=LwLCuFNhZRdNkLLK">
     <img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
-</p>
-
-<p>
-  <img src="https://img.shields.io/github/followers/ahmed2005hussen?label=Followers&style=for-the-badge&color=brightgreen" alt="followers" />
 </p>
 
 </div>
@@ -59,11 +52,7 @@ public class AhmedHussen extends Developer {
 - 🔭 Currently training in **Java Spring Boot** and building production-ready applications
 - 🌱 Exploring **Microservices Architecture**, **Cloud Technologies**, and **System Design**
 - 💡 Strong believer in **Clean Code**, **SOLID Principles**, and **Design Patterns**
-- 🧠 Active problem solver on **Codeforces** - sharpening algorithmic thinking daily
 - 👨‍💻 All of my projects are available on [GitHub](https://github.com/ahmed2005hussen)
-- 💬 Ask me about **Backend Development**, **Spring Boot**, **System Design**, or **Algorithms**
-- ⚡ Fun fact: **Code is poetry, bugs are just unfinished verses**
-
 ---
 
 ## 🛠️ Tech Stack
@@ -123,18 +112,6 @@ public class AhmedHussen extends Developer {
 
 ---
 
-
-### 🔥 Currently Working On:
-- 🔨 Building real-world projects with **Spring Boot**
-- 📚 Deep diving into **Spring Security** and **Spring Data JPA**
-- 🧩 Solving problems on **Codeforces** to maintain algorithmic skills
-- 🎓 Learning **System Design** patterns for scalable applications
-- 🐳 Exploring **Containerization** with Docker
-- ☁️ Getting started with **Cloud Platforms** (AWS/Azure)
-
----
-
-
 ## 📫 Let's Connect!
 
 <div align="center">
@@ -154,23 +131,6 @@ public class AhmedHussen extends Developer {
   </a>
 </p>
 
-### 💬 Open for Collaboration & Opportunities!
-
-**Feel free to reach out for:**
-- 🤝 Collaboration on interesting projects
-- 💼 Backend development opportunities
-- 🧠 Technical discussions and knowledge sharing
-- 📚 Learning and growing together
-
 </div>
 
 ---
-
-<div align="center">
-
-### 💭 *"Clean code always looks like it was written by someone who cares."*
-**— Robert C. Martin**
-
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
-
-</div>
